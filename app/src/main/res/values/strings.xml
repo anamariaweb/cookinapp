@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">COOKIN</string>
+
+
+    <string name="btn_login">Iniciar Sesion</string>
+    <string name="btn_reg">Registrarse</string>
+    <string name="iniciosesion">Iniciar Sesión</string>
+    <string name="registro">Registrarse</string>
+    <string name="btn_iniciarsesion">Iniciar sesion</string>
+    <string name="btn_registro">Registrarse</string>
+    <string name="nombre">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="clav1">Confirmar Contraseña </string>
+    <string name="email">Email</string>
+
+    <string name="btn_inicio">inicio</string>
+
+
+    <string name="level">Niveles</string>
+    <string name="recipes">Recetas</string>
+
+    <string name="one">UNO</string>
+    <string name="beginner_btn">Principiante</string>
+
+    <string name="two">DOS</string>
+    <string name="intermediate_btn">Intermedio</string>
+
+    <string name="three">TRES</string>
+    <string name="advanced_btn">Avanzado</string>
+
+    <string name="four">CUATRO</string>
+    <string name="expert_btn">Experto</string>
+
+    <string name="five">CINCO</string>
+    <string name="chef_btn">Chef</string>
+    <string name="title_activity_principiantectivity">Principiantectivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_intermedio">IntermedioActivity</string>
+    <string name="title_activity_avanzado">AvanzadoActivity</string>
+    <string name="title_activity_experto">ExpertoActivity</string>
+    <string name="title_activity_chef">ChefActivity</string>
+    <string name="recipe_not_exist">No se encontró la receta. Estamos trabajando en ello.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

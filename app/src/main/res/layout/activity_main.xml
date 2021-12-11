@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/remi"
+    tools:context=".MainActivity"
+    tools:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="406dp"
+        android:layout_height="668dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <ImageView
+            android:id="@+id/cook"
+            android:layout_width="wrap_content"
+            android:layout_height="563dp"
+            android:layout_gravity="top"
+            android:contentDescription="TODO"
+            android:padding="120dp"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/galletas" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="96dp">
+
+            <Button
+                android:id="@+id/regis"
+                android:layout_width="192dp"
+                android:layout_height="78dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="8dp"
+                android:baselineAligned="false"
+                android:onClick="iRegistrarse"
+                android:text="@string/btn_registro"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toStartOf="@+id/insesion"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@string/btn_reg" />
+
+            <Button
+                android:id="@+id/insesion"
+                android:layout_width="190dp"
+                android:layout_height="78dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="16dp"
+                android:baselineAligned="false"
+                android:onClick="iSesion"
+                android:text="@string/btn_iniciarsesion"
+                android:textSize="18sp"
+                app:layout_constraintBaseline_toBaselineOf="@+id/regis"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/regis"
+                tools:text="@string/btn_login" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

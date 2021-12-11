@@ -1,0 +1,473 @@
+[
+  {
+    "name": "gelatina",
+    "title": "Gelatina de Colores",
+    "time": 15,
+    "level": 1,
+    "img": "receta_gelatina",
+    "ingredients": [
+      "1 sobre de gelatina sabor uva o mora (40 g)",
+      "1 sobre de gelatina sabor cereza o fresa o frambuesa (40 g)",
+      "1 sobre de gelatina sabor naranja o sabor limón (40 g)",
+      "6 cucharadas de LECHE CONDENSADA (90 g)",
+      "1 taza de leche (250 ml)",
+      "1 sobre de gelatina sin sabor disuelta en 2 cucharadas de agua tibia (7 g)"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_gela",
+        "content": "PASO 1 Prepara las gelatinas de sabores con 1 taza de agua. Coloca cada sabor en tazones diferentes."
+      },
+      {
+        "img": "paso2_gela",
+        "content": "PASO 2 Espera que las gelatinas estén cuajadas."
+      },
+      {
+        "img": "paso3_gela",
+        "content": "PASO 3 Corta las gelatinas de colores en cubos medianos y coloca en un molde mediano, intercalando los colores"
+      },
+      {
+        "img": "paso4_gela",
+        "content": "PASO 4 Prepara la salsa de la gelatina de colores.Calienta en una olla de fondo alto a fuego medio la LECHE CONDENSADA y la leche. Agrega la gelatina sin sabor disuelta, luego bate todo en la licuadora."
+      },
+      {
+
+        "img": "paso5_gela",
+        "content": "PASO 5 Vierte la preparación de la leche condensada encima, tratando de esparcir bien. Lleva al refrigerador hasta que cuaje (aproximadamente 3 horas)."
+      },
+      {
+        "img": "paso6_gela",
+        "content": "PASO 6 Pasado el tiempo de frío en la nevera, desmolda y sirve."
+      }
+    ]
+  },
+  {
+    "name": "fideos",
+    "title": "Arroz con Fideos",
+    "time": 30,
+    "level": 1,
+    "img": "receta_fideos",
+    "ingredients": [
+
+      "3 cucharadas de aceite vegetal o de oliva",
+      "1 diente de ajo",
+      "2/3 de taza de fideos",
+      "1 taza de arroz blanco de grano largo",
+      "2 tazas de agua",
+      "1/2 cucharadita de sal"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_fideo",
+        "content": "PASO 1 Calentar en una olla pequeña, el aceite a fuego medio. Añadir el diente de ajo machacado y los fideos; sofreír por 2 a 3 minutos o hasta que la pasta esté dorada."
+      },
+
+      {
+        "img":"paso2_fideo" ,
+        "content": "PASO 2 Añadir el arroz, revolver con una cuchara de madera y sofreír por 1 minuto."
+      },
+
+      {
+        "img": "paso3_fideo",
+        "content": "PASO 3 Añadir el agua, aumentar el fuego a alto y llevar a un hervor; agregar la sal."
+      },
+
+      {
+      "img": "paso4_fideo",
+        "content": "PASO 4 Tapar y bajar el fuego a bajo y cocinar por unos 20 minutos o hasta que el arroz esté tierno."
+      },
+
+      {
+        "img": "paso5_fideo",
+        "content": "PASO 5 Retirar del fuego, dejar reposar durante 5 minutos y servir."
+      }
+
+
+    ]
+  },
+  {
+    "name": "maracuya",
+    "title": "Postre de Maracuya",
+    "time": 20,
+    "level": 2,
+    "img": "receta_maracuya",
+    "ingredients": [
+      "10 galletas doré o ducales (77 g)",
+      "4 cucharadas de mantequilla derretida (56 g)",
+      "1/2 taza de LECHE CONDENSADA (140 g)",
+      "1/2 de taza de CREMA DE LECHE (120 g)",
+      "1 taza de pulpa de maracuyá sin azúcar (230 g)",
+      "2 sobres de gelatina sin sabor disuelta en 4 cucharadas de agua tibia (14 g)"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_mara",
+        "content":"PASO 1: Tritura en un tazón las galletas y mezcla con la mantequilla derretida hasta integrar bien. En un molde pon las galletas y presiona con las manos para cubrir el fondo y un poco los bordes. Lleva el molde al congelador por 20 minutos para que se pegue bien la galleta."
+      },
+      {
+        "img": "paso2_mara",
+        "content":"PASO 2: Añade al vaso de la licuadora la pulpa de maracuyá licua y luego colar el liquido."
+      },
+      {
+        "img": "paso3_mara",
+        "content":"PASO 3: Agrega al vaso de la licuadora la leche condensada, la crema de leche, el jugo de maracuyá y la gelatina sin sabor disuelta en agua."
+      },
+      {
+        "img": "paso4_mara",
+        "content":"PASO 4: Licúa por 10 segundos o hasta integrar bien. Retira el molde del congelador y vierte la mezcla sobre la galleta."
+      },
+      {
+        "img":"paso5_mara",
+        "content":"PASO 5: Lleva el molde a la nevera y deja por 3 horas aproximadamente.Pasado este tiempo, retira el molde y sirve el postre en porciones iguales."
+
+      }
+
+
+    ]
+  },
+  {
+    "name": "verdura",
+    "title": "Arroz con Verdura",
+    "time": 35,
+    "level": 2,
+    "img": "receta_verdura",
+    "ingredients": [
+      "2 tazas de arroz",
+      "3 tazas de caldo de vegetales puedes usar agua también",
+      "1/2 cebolla de tamaño mediano",
+      "1/2 zanahoria",
+      "2 dientes de ajo",
+      "¼ de pimiento",
+      "1 tomate mediano",
+      "Sal al gusto",
+      "1/2lb de habichuela",
+      "1/2 lb de arveja o guisantes verdes",
+      "aceite de oliva"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_ver",
+        "content":"PASO 1: Pica todos los vegetales en cubos pequeños. El ajo pícalo muy, muy pequeño."
+      },
+      {
+        "img":"paso2_ver" ,
+        "content":"PASO 2: Calienta una sartén profunda o una olla paellera y sofríe los vegetales en este orden: el ajo, la cebolla, la zanahoria, el pimentón, el tomate, la habichuela. Agrega una cucharadita de sal."
+      },
+      {
+        "img": "paso3_ver",
+        "content":"PASO 3: Agrega la taza y media de arroz, mezcla bien y agrega los guisantes verdes y las 3 tazas de agua."
+      },
+      {
+        "img": "paso4_ver",
+        "content":"PASO 4: Cuando el agua comience a secarse y sólo queden burbujas sobre los granos de arroz, baja el fuego al mínimo y tapa tu sartén."
+      },
+      {
+        "img": "paso5_ver",
+        "content":"PASO 5: Deja cocinar unos 15-20 minutos; luego reposar un par de minutos y sirve tu delicioso arroz con verduras.\""
+      }
+
+
+    ]
+  },
+  {
+    "name": "mazamorra",
+    "title": "Mazamorra Paisa",
+    "time": 45,
+    "level": 3,
+    "img": "receta_mazamorra",
+    "ingredients": [
+      "1 Lb maíz peto",
+      "1/2 panela rallada",
+      "5 Tazas de leche",
+      "1/2 queso rallado"
+    ],
+    "preparation": [
+      {
+        "img":"paso1_maza" ,
+        "content":"PASO 1: Poner el maíz en remojo la noche anterio, en 6 tazas de agua. Al otro dia cocinar en agua durante 90 minutos aproximadamente."
+      },
+      {
+        "img": "paso2_maza",
+        "content":"PASO 2: Añadir la leche hervida (esto evitara que corte con el maíz peto) y una vez que comience a hervir, apagar el fuego y dejar reposar durante 5 minutos"
+      },
+      {
+        "img": "paso3_maza",
+        "content":"PASO 3: servir e incorporar la panela rallada y el queso al gusto. "
+
+      }
+
+
+    ]
+  },
+  {
+    "name": "conpollo",
+    "title": "Arroz con Pollo",
+    "time": 50,
+    "level": 3,
+    "img": "receta_pollo",
+    "ingredients": [
+      "1 pechuga de pollo sin piel (450 g)",
+      "4 tazas de agua (1000 ml)",
+      "2 cucharadas de aceite (28 g)",
+      "1/2 cebolla cabezona mediana finamente picada (45 g)",
+      "2 tomates rojos finamente picados sin piel y sin semilla (245 g)",
+      "1/2 pimentón rojo finamente picado (40 g)",
+      "1 diente de ajo finamente picado (3 g)",
+      "1/4 de lb de arveja (125 g)",
+      "1 zanahoria pequeña pelada y cortada en cubos pequeños (50 g)",
+      "1/2 lb de arroz (250 g)",
+      "1 -1/2 tazas de líquido de cocción de la pechuga",
+      "1 sobre de CALDO DE GALLINA MAGGI® DESMENUZADO (9 g)",
+      "1/2 cucharadita de SAZONADOR NATURÍSIMO MAGGI® (3 g)"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_gela",
+        "content":"PASO 1: Pon en una olla de fondo alto la pechuga de pollo, el sobre de CALDO DE GALLINA MAGGI® DESMENUZADO y el agua. Llévalo a fuego medio tapado por 15 minutos o hasta que la pechuga esté bien cocinada.Retira del fuego, saca la pechuga y deja enfriar para desmechar. Luego, reserva el líquido donde se preparó la pechuga, ya que sirve como base para cocinar el arroz."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 2: Vierte el aceite en una olla de fondo alto y caliéntalo a fuego medio por 3 minutos. Sofríe la cebolla cabezona, el tomate, el pimentón, el ajo, la arveja, la zanahoria y añade el SAZONADOR NATURÍSIMO MAGGI®. Mézclalo bien para integrar.Agrega el arroz y la taza y media del líquido de cocción de la pechuga que se estaba reservando."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 3: Cocina el arroz a fuego medio hasta que absorba todo el líquido, en ese momento agrega el pollo desmechado. Después debes dejarlo encima sin revolver. Baja el fuego a mínimo, tápalo y deja cocinar por 30 minutos más hasta que el arroz y los vegetales estén blanditos."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 4: Retira del fuego el arroz cuando todo esté bien cocido, luego revuelve para mezclar el arroz con el pollo."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 5: Sirve el arroz en porciones iguales y acompáñalo con rodajas de tomate, papas francesas y trozos de aguacate."
+
+      }
+
+
+
+    ]
+  },
+  {
+    "name": "conleche",
+    "title": "Arroz con leche",
+    "time": 40,
+    "level": 4,
+    "img": "receta_leche",
+    "ingredients": [
+      "2 tazas de agua (500 ml)",
+      "1 taza de arroz (250 g)",
+      "1 astilla de canela (5 g)",
+      "2 tazas de leche (500 ml)",
+      "1/2 taza de LECHE CONDENSADA (140 g)",
+      "3 cucharadas de uvas pasas (30 g)",
+      "1/4 queso rallado"
+
+    ],
+    "preparation": [
+      {
+        "img": "paso1_leche",
+        "content": "PASO 1: En una olla a fuego bajo, pon a cocinar por 15 minutos el agua, la astilla de canela y el arroz hasta que absorba la mayor parte del líquido."
+
+      },
+      {
+        "img": "paso2_leche",
+        "content":"PASO 2: Agrega la leche y con una cuchara revuelve constantemente."
+      },
+      {
+        "img": "paso3_leche",
+        "content":"PASO 3: Añade la LECHE CONDENSADA y sigue revolviendo hasta que el arroz se ablande y tome una consistencia cremosa."
+      },
+      {
+        "img": "paso4_leche",
+        "content":"PASO 4: Apaga el fuego y retira la olla."
+      },
+      {
+        "img": "paso5_leche",
+        "content":"PASO 5: Esta es una receta que puedes servir fría o caliente. Vierte la mezcla en 8 porciones iguales y agrega el queso rallado por encima, las uvas pasas y revuelve para integrar todo"
+
+      }
+
+
+    ]
+  },
+  {
+    "name": "marinero",
+    "title": "Arroz Marinero",
+    "time": 120,
+    "level": 4,
+    "img": "receta_marinero",
+    "ingredients": [
+      "Aceite de oliva",
+      "Almejas",
+      "Arroz 500 grs",
+      "Calamar 200 grs",
+      "Caldo de langostinos 1 y 1/2 Litro",
+      "Camarones 200 grs",
+      "Cilantro c/n",
+      "Ajo 4 Dientes",
+      "Langostinos 200 grs",
+      "Mejillones 200 grs",
+      "Pimiento rojo 1/2 unidad",
+      "Sal",
+      "Cebolla 2 Unidades"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_gela",
+        "content":"PASO 1: En una olla poner el aceite con la cebolla y el ajo y hacer un refrito."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 2: Cuando la cebolla esté tierna agregar el arroz y rehogar por tres minutos hasta que empiece hacerse transparente ."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 3:Agregar el caldo de pescado y dejar cocinar a fuego fuerte hasta que empieza a verse el arroz."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 4: Bajar el fuego al mínimo, tapar la olla, y cocinar por aproximadamente 15 minutos."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 5: En una sartén grande a fuego medio rehogar la cebolla y el ajo picado con el aceite hasta que las cebollas estén tiernas."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 6: Añadir la sal, el pimiento picado y la mitad del cilantro picado cocinar por 5 minutos revolviendo frecuentemente."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 7: Agregar los mariscos y rehogar por aproximadamente 3 minutos."
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 8: Incorporar la mitad restante del cilantro picado, poner a punto de sal."
+
+      },
+      {
+        "img": "paso1_gela",
+        "content":"PASO 9: Servir y acompañar con patacones o rodajas de aguacate."
+
+      }
+
+
+    ]
+
+  },
+  {
+    "name": "mora",
+    "title": "Cheesecake de Mora",
+    "time": 120,
+    "level": 5,
+    "img": "receta_mora",
+    "ingredients": [
+      "1/4 de taco de galletas dore o ducales (58 g)",
+      "2 cucharadas de mantequilla derretida (28 g)",
+      "2 sobres de gelatina sin sabor (14 g)",
+      "2 cucharadas de agua fría",
+      "4 cucharadas de queso crema (58 g)",
+      "1 vaso de yogurt griego sin azúcar (120 g)",
+      "4 cucharadas de leche condensada (60 g)",
+      "4 cucharadas de crema de leche (60 g)",
+      "Zumo de 1 limón (48 g)",
+      "1/4 libra de mora fresca (125 g)",
+      "1 cucharada de azúcar (16 g)"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_mora",
+        "content":"PASO 1: Tritura en un tazón las galletas y mezcla con la mantequilla derretida hasta integrar bien. En un molde pon las galletas y presiona con las manos para cubrir el fondo y un poco los bordes. Lleva el molde al congelador por 20 minutos para que se pegue bien la galleta."
+      },
+      {
+        "img": "paso2_mora",
+        "content":"PASO 2: Disuelve los dos sobres de gelatina sin sabor en 2 tazones separados. Añade 1 cucharada de agua por tazón y mezcla muy bien para evitar que se formen grumos. Deja reposar."
+      },
+      {
+        "img": "paso3_mora",
+        "content":"PASO 3: Aparte en otro tazón , con ayuda de un batidor de mano mezcla: el queso crema, el yogurt, una cucharada de CREMA DE LECHE NESTLÉ, el zumo de ½ limón y la LECHE CONDENSADA."
+      },
+      {
+        "img": "paso4_mora",
+        "content":"PASO 4: Aparte, en una sartén pequeña, calienta las dos cucharadas de CREMA DE LECHE NESTLÉ restantes y añade el contenido de uno de los tazones de gelatina sin sabor reservada, mezcla bien para integrar; retira del fuego y adiciona a la mezcla de queso crema y yogurt. Divide la mezcla en 2 tazones en partes iguales y deja reposar."
+      },
+      {
+        "img": "paso5_mora",
+        "content":"PASO 5: Luego, en una olla a fuego medio pon las moras, el zumo del limón restante y el azúcar, deja cocinar por 20 minutos o hasta que tenga aspecto de salsa espesa, adiciona el contenido del otro tazón de gelatina sin sabor reservada y revuelve para que se disuelva bien."
+      },
+      {
+        "img": "paso6_mora",
+        "content":"PASO 6: Pon la mitad de la salsa de mora a uno de los tazones reservados de la mezcla cremosa."
+      },
+      {
+        "img": "paso7_mora",
+        "content":"PASO 7:Retira el molde de galleta del congelador y pon la mezcla con la mermelada de mora encima, con la ayuda de una cuchara esparce bien, pon la mezcla que no tiene mermelada de mora en la mitad y por último, la salsa de mora restante en el centro."
+      },
+      {
+        "img": "paso8_mora",
+        "content":"PASO 8: Lleva al refrigerador por 4 horas; luego sirve y disfruta."
+      }
+
+
+    ]
+  },
+  {
+    "name": "paisa",
+    "title": "Bandeja Paisa",
+    "time": 120,
+    "level": 5,
+    "img": "receta_paisa",
+    "ingredients": [
+      "1 1/2 cucharadas de aceite (21 g)",
+      "2 tomates maduros sin piel y finamente picados (240 g)",
+      "2 tallos de cebolla larga finamente picada (30 g)",
+      "1 sobre de CALDO CON COSTILLA MAGGI DESMENUZADO (9 g)",
+      "3 tazas de agua (750 ml)",
+      "1/2 libra de fríjoles bola roja remojados desde la noche anterior (250 g)",
+      "1/4 libra de carne molida magra (125 g)",
+      "1/2 libra de arroz blanco cocinado (250 g)",
+      "1/4 de libra de tocino crocante cortado en 4 porciones (125 g)",
+      "4 chorizos tipo coctel previamente cocinados y dorados (120 g)",
+      "4 huevos fritos (200 g)",
+      " 1 aguacate partido en 4 porciones (110 g)",
+      "4 arepas pequeñas redondas (80 g)",
+      "4 tajadas de plátano maduro fritas (80 g)"
+    ],
+    "preparation": [
+      {
+        "img": "paso1_paisa",
+        "content":"PASO 1: Calienta en una olla a presión una cucharada de aceite por 3 minutos a fuego medio; añade la cebolla, el tomate y el sobre de CALDO CON COSTILLA MAGGI DESMENUZADO y revuelve para integrar bien, finalmente cocina por 2 minutos o hasta que el tomate suelte sus jugos."
+      },
+      {
+        "img": "paso2_paisa",
+        "content":"PASO 2: Adiciona las tres tazas de agua y los fríjoles. Tapa la olla y cocina por 30 minutos."
+      },
+      {
+        "img": "paso3_paisa",
+        "content":"PASO 3: Pasado el tiempo de cocción retira la olla del fuego, sácale el aire con cuidado antes de destapar. Vuelve nuevamente al fuego y cocina los fríjoles hasta que espesen. Debes continuar revolviendo de vez en cuando.\","
+
+      },
+      {
+        "img": "paso4_paisa",
+        "content":"PASO 4: Calienta en una sartén el aceite restante por 3 minutos a fuego medio. Agrega la carne y con una cuchara revuelve, debes dejar cocinar por 5 minutos o hasta que este bien cocinada."
+      },
+      {
+        "img": "paso5_paisa",
+        "content":"PASO 5: En una olla de fondo alto agrega 2 tazas de agua y el tocino cortado en trozos; tapa la olla y lleva al fuego medio por 20 minutos o hasta que el tocino esté bien cocinado y crocante. Retira del fuego y déjalos en papel absorbente para retirar el exceso de grasa."
+      },
+      {
+        "img": "paso6_paisa",
+        "content":"PASO 6: En una sartén pequeña adicionar dos cucharadas de agua y los chorizos. Lleva a fuego medio hasta que los chorizos estén bien dorados."
+      },
+      {
+        "img": "paso7_paisa",
+        "content":"PASO 7: En una parrilla o sartén a fuego medio debes poner las arepas y dorar por ambos lados."
+      },
+      {
+        "img": "paso8_paisa",
+        "content":"PASO 8: En 4 bandejas o 4 platos sirve arroz, fríjoles, carne molida, chicharrón, chorizo, huevo, aguacate, arepa y 1 tajada de plátano maduro, todo en porciones iguales."
+
+      }
+    ]
+  }
+]

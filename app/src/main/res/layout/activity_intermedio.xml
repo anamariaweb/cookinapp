@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/intermedio"
+    android:background="@drawable/cocint"
+    tools:context=".Intermedio">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="385dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="16dp"
+        app:cardBackgroundColor="#84FFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.766"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+        <TextView
+            android:id="@+id/RECETAS"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:gravity="center"
+            android:text="@string/recipes"
+            android:textColor="#8C9EFF"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="RECETAS" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="384dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        app:cardBackgroundColor="#84FFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.777"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/COOKIN"
+            android:layout_width="wrap_content"
+            android:layout_height="63dp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textColor="#8C9EFF"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="COOKIN" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="54dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="98dp"
+            app:layout_constraintStart_toEndOf="@+id/COOKIN"
+            app:srcCompat="@drawable/galletas" />
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/costilla"
+        android:layout_width="215dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:onClick="openRecipe"
+        android:text="COSTILLA BBQ"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/perro" />
+
+    <Button
+        android:id="@+id/maracuya"
+        android:layout_width="342dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:onClick="openRecipe"
+        android:text="POSTRE MARACUYA"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="146dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="15dp"
+        android:background="#84FFFF"
+        android:gravity="center"
+        android:text="INTERMEDIO"
+        android:textColor="#B388FF"
+        android:textColorHighlight="#673AB7"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView2" />
+
+    <Button
+        android:id="@+id/verdura"
+        android:layout_width="292dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:onClick="openRecipe"
+        android:text="ARROZ CON VERDURA"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/maracuya" />
+
+    <Button
+        android:id="@+id/pastapollo"
+        android:layout_width="241dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:onClick="openRecipe"
+        android:text="PASTA CON POLLO"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/verdura" />
+
+    <Button
+        android:id="@+id/perro"
+        android:layout_width="243dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:onClick="openRecipe"
+        android:text="PERRO CALIENTE"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pastapollo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
